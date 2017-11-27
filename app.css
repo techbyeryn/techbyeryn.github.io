@@ -42,4 +42,7 @@ article{
 	padding: 20px;
 	margin: 0 auto;
 }
-
+@media(max-width:500px){
+	body{ 
+		background-color:rgb ()
+}
