@@ -38,7 +38,8 @@ img{
     border: 10px solid white;
 }
 article{
-	width: 500px
-	padding: 20px
+	max-width: 500px;
+	padding: 20px;
+	margin: 0 auto;
 }
 
